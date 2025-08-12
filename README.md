@@ -25,7 +25,7 @@ A **Flask-based web application** for tracking and managing cybersecurity incide
 DB_PORT=5432  
 DB_NAME=Cybersecurity_db  
 DB_USER=postgres  
-DB_PASSWORD=your_password  
+DB_PASSWORD=root
 SECRET_KEY=your_secret_key
 
 3.**Run the app**:
